@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2934870 */
+  src: url('iconfont.eot?t=1636720719798'); /* IE9 */
+  src: url('iconfont.eot?t=1636720719798#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1636720719798') format('woff2'),
+       url('iconfont.woff?t=1636720719798') format('woff'),
+       url('iconfont.ttf?t=1636720719798') format('truetype'),
+       url('iconfont.svg?t=1636720719798#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yinle:before {
+  content: "\e69e";
+}
+
+.icon-hangkongxiang:before {
+  content: "\e621";
+}
+
+.icon-maocao:before {
+  content: "\e622";
+}
+
+.icon-maobao:before {
+  content: "\e623";
+}
+
+.icon-maowan:before {
+  content: "\e624";
+}
+
+.icon-maoliang:before {
+  content: "\e61f";
+}
+
+.icon-mao:before {
+  content: "\e620";
+}
+
