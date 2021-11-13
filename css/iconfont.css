@@ -19,6 +19,7 @@
 .icon-bingtutubiao:before {
   content: "\e98c";
   color: blue;
+  font-size: 24px;
 }
 
 .icon-yinle:before {
@@ -31,6 +32,7 @@
 
 .icon-maocao:before {
   content: "\e622";
+  color: #F58E27;
 }
 
 .icon-maobao:before {
