@@ -18,6 +18,7 @@
 
 .icon-bingtutubiao:before {
   content: "\e98c";
+  color: blue;
 }
 
 .icon-yinle:before {
