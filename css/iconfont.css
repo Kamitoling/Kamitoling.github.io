@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2934870 */
+  src: url('//at.alicdn.com/t/font_2934870_67i2ws9frzt.eot?t=1636722149889'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_2934870_67i2ws9frzt.eot?t=1636722149889#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('//at.alicdn.com/t/font_2934870_67i2ws9frzt.woff2?t=1636722149889') format('woff2'),
+       url('//at.alicdn.com/t/font_2934870_67i2ws9frzt.woff?t=1636722149889') format('woff'),
+       url('//at.alicdn.com/t/font_2934870_67i2ws9frzt.ttf?t=1636722149889') format('truetype'),
+       url('//at.alicdn.com/t/font_2934870_67i2ws9frzt.svg?t=1636722149889#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bingtutubiao:before {
+  content: "\e98c";
+  color: blue;
+  font-size: 24px;
+}
+
+.icon-yinle:before {
+  content: "\e69e";
+}
+
+.icon-hangkongxiang:before {
+  content: "\e621";
+}
+
+.icon-maocao:before {
+  content: "\e622";
+  color: #F58E27;
+}
+
+.icon-maobao:before {
+  content: "\e623";
+}
+
+.icon-maowan:before {
+  content: "\e624";
+}
+
+.icon-maoliang:before {
+  content: "\e61f";
+}
+
+.icon-mao:before {
+  content: "\e620";
+}
