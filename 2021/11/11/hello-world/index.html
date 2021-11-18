@@ -185,7 +185,7 @@ if (false) {
 }
 
 var pjax = new Pjax({
-  elements: 'a:not([target="_blank"])',
+  elements: 'a:not([target="_blank"]):not([href="<script src="https://cdn.jsdelivr.net/gh/Kamitoling/live2d-widget@0.8.5/autoload.js"></script>"])',
   selectors: pjaxSelectors,
   cacheBust: false,
   analytics: false,
