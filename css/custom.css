@@ -9,3 +9,8 @@ svg.icon {
 #footer{
     background: transparent!important;
   }
+  @import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+
+  body {
+    font-family: 'ZCOOL KuaiLe', cursive;
+  }
