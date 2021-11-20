@@ -29,7 +29,7 @@ img{
 }
 /* 选择链接标签时的鼠标指针 */
 a:hover{
-    cursor: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/cur/link.cur'),auto;
+    cursor: url('/mouse/link.ani'),auto;
 }
 /* 选中输入框时的鼠标指针 */
 input:hover{
